@@ -1,0 +1,66 @@
+body {
+  background-color: #230124;  
+  background-position: center center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-image: url(https://img.rawpixel.com/private/static/images/website/2022-05/pf-s113-ak-5716_3.jpg?w=1200&h=1200&dpr=1&fit=clip&crop=default&fm=jpg&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=b0acdc8cf90e5a2a39a2899a1489f2dc);
+}
+
+h1, p {
+  font-family: Japanese, sans-serif;
+  color: white;
+  margin: 1em auto;
+  text-align: center;
+  width: 500px;
+ background-image: linear-gradient(to right, #1b069e , #230124, #1b069e);
+}
+
+#description {
+  font-weight: bold;
+}
+
+form {
+  font-family: Japanese, sans-serif;
+  background-image: url(http://creativeloads.com/foto/black-polygonal-texture-289.jpg);
+  color: rgb(255, 255, 255);
+  width: 60vw;
+	max-width: 500px;
+	min-width: 300px;
+	margin: 0 auto;
+}
+
+input, select {
+  margin: 7 0 15 0;
+	width: 100%;
+  min-height: 2em;
+  color: white;
+  background-color: black;
+  border-image: linear-gradient(to right, #1b069e , #230124, #1b069e) 1;
+}
+
+.inline {
+   width: unset;
+  margin: 0 0.5em 0 0;
+  vertical-align: middle;
+}
+
+label {
+  display: block;
+  margin: 0.5rem 0;
+}
+
+fieldset {
+  border-style: none;
+}
+
+textarea {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#smokepreferrence {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
